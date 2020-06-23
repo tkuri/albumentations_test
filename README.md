@@ -1,2 +1,2 @@
 # albumentations_test
-albumentations test
+albumentationsの中の50程のaugmentaitonを１つ１つ動かして試せるノートブック。
